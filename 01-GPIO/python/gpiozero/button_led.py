@@ -1,3 +1,7 @@
+# author: Thuy.PX
+# email: thuypx.tech.mlab@gmail.com
+# Use button control led and cleanup gpio with python lib: gpiozero, run on Raspberry Pi 5
+
 from gpiozero import Button
 from gpiozero import LED
 from time import sleep
