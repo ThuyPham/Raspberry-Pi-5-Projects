@@ -1,3 +1,7 @@
+# author: Thuy.PX
+# email: thuypx.tech.mlab@gmail.com
+# Blink led and cleanup gpio with python lib: gpiozero, run on Raspberry Pi 5
+
 from gpiozero import LED
 from time import sleep
 
